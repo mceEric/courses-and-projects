@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "google-maps-example",
+    "slug": "google-maps-example",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyCTxGJm9AaJcJ_LeHTBXtkFQNIjijOuPU0"
+      }
+    },
+    "android": {
+      "package": "com.codingmechanic.mapcuny",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCTxGJm9AaJcJ_LeHTBXtkFQNIjijOuPU0"
+        }
+      }
+    }
+  }
+}
