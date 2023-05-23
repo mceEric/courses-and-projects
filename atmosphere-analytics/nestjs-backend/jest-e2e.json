@@ -1,0 +1,12 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "rootDir": ".",
+  "testEnvironment": "node",
+  "moduleDirectories": ["./src/nestjs-backend/node_modules/", "node_modules/"],
+  "testRegex": ".e2e-spec.ts$",
+  "coveragePathIgnorePatterns": ["/node_modules/", "/test/*"],
+  "collectCoverageFrom": ["./src/**/*.ts", "!./src/**/main.ts", "!./src/**/schemas/*"],
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  }
+}

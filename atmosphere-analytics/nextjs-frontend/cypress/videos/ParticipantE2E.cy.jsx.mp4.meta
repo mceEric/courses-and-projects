@@ -1,0 +1,31 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-1171
+END=2098
+title=Participant E2E test Participant Login
+[CHAPTER]
+TIMEBASE=1/1000
+START=3163
+END=5372
+title=Participant E2E test Participant can experience dashboard with no problem
+[CHAPTER]
+TIMEBASE=1/1000
+START=4597
+END=7584
+title=Participant E2E test A participant can enroll in a study in AllStudiesPage
+[CHAPTER]
+TIMEBASE=1/1000
+START=-2331
+END=10574
+title=Participant E2E test Participant can perform all actions within EnrolledStudiesPage
+[CHAPTER]
+TIMEBASE=1/1000
+START=19501
+END=23486
+title=Participant E2E test Participant can perform all actions within Settings
+[CHAPTER]
+TIMEBASE=1/1000
+START=25224
+END=27473
+title=Participant E2E test Correct auth redirection and Participant Logout
