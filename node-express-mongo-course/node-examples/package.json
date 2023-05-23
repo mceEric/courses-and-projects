@@ -1,0 +1,15 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "\"Node examples for course learning\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Eric McEvoy",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
+}
